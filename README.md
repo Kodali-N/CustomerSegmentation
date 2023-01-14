@@ -19,7 +19,7 @@ For using the elbow method, I first calculated the intertia scores, and plotted 
 - ![bivar_elbow](https://user-images.githubusercontent.com/86663030/212472395-12b5f5ec-1ae6-4be1-ba6d-92e28ccf0fd5.png)
 - ![71422FE8-1D03-4CD4-A77F-2C25FE1714AE](https://user-images.githubusercontent.com/86663030/212472440-947fcc4d-5974-40f4-aa4d-aae27c2230aa.jpeg)
 - ![AB2E5EB5-93BC-4CE6-8CAF-840AF3B15FF3_4_5005_c](https://user-images.githubusercontent.com/86663030/212472466-5fec5212-e5ef-4f51-b288-2b2cf4d40a92.jpeg)
-- <img src="https://user-images.githubusercontent.com/86663030/212472466-5fec5212-e5ef-4f51-b288-2b2cf4d40a92.jpeg" width="350" height="200">
+- <img src="https://user-images.githubusercontent.com/86663030/212472466-5fec5212-e5ef-4f51-b288-2b2cf4d40a92.jpeg" width="400" height="200">
 - Observations:
   - The ideal cluster would be cluster 1. Because it has customers with high annual income and high spending score. This is the cluster that a company can target for sales. The focus items can be expensive watches, adgets, etc.
   - Cluster 2 can be young adults (based on the avg age) with less income, but make big purchases once in a while. The campaign for this group will be focused on items that are maybe trendy 
