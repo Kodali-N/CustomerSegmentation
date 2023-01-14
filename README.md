@@ -1,11 +1,11 @@
 # Customer Segmentation
-This project is focuses on performing customer segmentation on a group of mall customers. I have used KMeans Unsupervised Learning machine learning algorithm to fund Univariate and Bivariate clusters. Once these clusters are identified, I have provided observations(Insights) on what the target cluster should be.
+This project is focuses on performing customer segmentation on a group of mall customers. I have used KMeans Unsupervised Learning algorithm to fund Univariate and Bivariate clusters. Once these clusters are identified, I have provided observations(Insights) on what the target cluster should be.
 ## Univariate and Bivariate analysis:
 - I performed both, Univariate and Bivariate analysis to gain insights on the data.
 - The correlation between annual income, age, and spending score was calculated. It is observed that the annual income and age are negatively correlated, and so are spending score and age.
 - These observations are important when it comes to the content of the campaigns, the focus areas should be deteremined based on the age, their income and other such factors.
 ## Clustering:
-- Algorithm: KMeans Unsupervised Learning ML algorithm
+- Algorithm: KMeans Unsupervised Learning algorithm
 - First, I have created clusters based on the income.
 Used elbow method to find the ideal number of clusters, that's 3 here.
 ![univar_elbow](https://user-images.githubusercontent.com/86663030/212472376-13a92e9f-f2a2-4915-9cf8-31e52302ac45.png)
