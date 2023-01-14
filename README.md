@@ -1,4 +1,4 @@
-# CustomerSegmentation
+# Customer Segmentation
 This project is focuses on performing customer segmentation on a group of mall customers. I have used KMeans Unsupervised Learning machine learning algorithm to fund Univariate and Bivariate clusters. Once these clusters are identified, I have provided observations(Insights) on what the target cluster should be.
 ## Univariate and Bivariate analysis:
 - I performed both, Univariate and Bivariate analysis to gain insights on the data.
